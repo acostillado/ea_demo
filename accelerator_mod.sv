@@ -1,5 +1,5 @@
 
-module openpiton_wrapper(
+module ea_demo(
     input            chipset_clk,
     input            mc_clk,
     input   [4:0]    pcie_gpio ,
