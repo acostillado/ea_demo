@@ -1,5 +1,4 @@
-**** This file has been created automatically. This line must be removed ****
-EANAME=my_ea
+EANAME=ea_demo
 PCIE,yes,pcie_axi,1,PCIE_CLK,pcie_clk,pcie_rstn,dma,0
 DDR4,no,mem_axi
 HBM,yes,mem_axi,1,CLK1,0x0,mem_calib_complete,00
